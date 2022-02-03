@@ -9,4 +9,5 @@ The method is decribed in "Heuristic Based Location Allocation of Single Frequen
 
 Some articles derived from the study:
 https://ieeexplore.ieee.org/document/9234016
+
 https://biblioteca.sbrt.org.br/articles/1905
