@@ -7,7 +7,7 @@ Coverage is modeled using the ITU P.1546-1 propagation model for the optimizatio
 The method is decribed in "Heuristic Based Location Allocation of Single Frequency Network Stations" to be published at the IEEE Transactions on Broadcasting.
 
 
-Some articles derived from the study:
+Some papers derived from the study:
 
 https://ieeexplore.ieee.org/document/9234016
 
